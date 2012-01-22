@@ -1,0 +1,7 @@
+# ignore vim swapfiles
+*.[swp]
+# ignore object and dependency files used during build
+*.[od]
+# ignore test binary
+code/test
+
